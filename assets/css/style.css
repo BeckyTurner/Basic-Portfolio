@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/leaves-pattern.png");
+    font-family: "Arial";
+}
+
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+div {
+    background-color: #ffffff;
+    border-color: #dddddd;
+}
+
+
+footer {
+    background-color: #666666;
+}
+
+header, nav, p, footer {
+    color: #777777;
+} 
+
+h1, h3 {
+    color: #4aaaa5;
+    font-family: "Georgia";
+}
