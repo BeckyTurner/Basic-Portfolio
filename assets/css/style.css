@@ -15,7 +15,10 @@ ul {
 }
 
 li {
-    float:left;
+    float:right;
+    padding:20px;
+    font-weight:100;
+    margin-top:-50px;
 }
 
 li a {
@@ -25,6 +28,16 @@ li a {
     font-family:"arial";
     font-size: 16px;
     text-decoration:none;
+}
+
+#about {
+    border-right: 1px solid #eee;
+    padding-right:30px;
+}
+
+#portfolio {
+    border-right: 1px solid #eee;
+    padding-right:30px;
 }
 
 .head1 {
